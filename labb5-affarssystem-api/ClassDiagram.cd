@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="labb5_affarssystem_api.Videogame">
+    <Position X="20.75" Y="4" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Videogame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="labb5_affarssystem_api.StockManager">
+    <Position X="16.5" Y="3" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAACAAABAAAAAAAAAAAAQAAAAAAACACAAAA=</HashCode>
+      <FileName>StockManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="labb5_affarssystem_api.ShoppingCart">
+    <Position X="19" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AABgAAAgAAAAAAAAAAAAAAAABABABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ShoppingCart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="labb5_affarssystem_api.SalesManager">
+    <Position X="16.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AABAAAEAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>SalesManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="labb5_affarssystem_api.Product">
+    <Position X="22.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAEAQAAAAAAAAAAAAQAAAEAAAAAAAAAgAAACAA=</HashCode>
+      <FileName>Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="labb5_affarssystem_api.Movie">
+    <Position X="24.75" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAACAAAAAAAAAAABAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Movie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="labb5_affarssystem_api.FileManager">
+    <Position X="19" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAABAAAAAAAAAA=</HashCode>
+      <FileName>FileManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="labb5_affarssystem_api.Book">
+    <Position X="22.75" Y="4" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAECAAAAAAAgAIAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Book.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="labb5_affarssystem_api.ApiManager">
+    <Position X="25" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAABAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>ApiManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="labb5_affarssystem_api.MainPage">
+    <Position X="13.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>SCAAAAEAAAAEAAAAAAAAgABAQBABAAKAg4QBAAAAAAE=</HashCode>
+      <FileName>MainPage.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
